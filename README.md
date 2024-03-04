@@ -5,7 +5,7 @@ This repository documents the collaborative efforts of three contributors to cre
 ## Contributors
 - Rafay Shakeel (21SW152)
 - Sachal Sahito (21SW108)
-- Wusutullah Khan Jamali (21Sw028)
+- Wusutullah Khan Jamali (21SW028)
 
 ## Project Overview
 The main objective of this project is to develop a personal portfolio website that showcases each contributor's skills, projects, and experiences. This portfolio website serves as a learning tool for Git version control, allowing us to collaborate effectively while managing the project's source code.
