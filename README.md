@@ -15,3 +15,6 @@ The main objective of this project is to develop a personal portfolio website th
 - CSS
 - JavaScript
 - Git
+
+## Preview
+![Preview](https://raw.githubusercontent.com/thePunchBox/SCD-Project/main/preview.png)
